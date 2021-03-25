@@ -8,7 +8,11 @@
 <img src="https://img.shields.io/github/package-json/v/ZyC0R3/RitaBot?label=Stable%20Version"> <a href="https://discordapp.com/invite/mgNR64R"><img src="https://img.shields.io/badge/Discord_Support-JOIN-7289DA.svg?"></a><a href="https://opensource.org/licenses/MIT"> <img src="https://img.shields.io/github/license/ZyC0R3/RitaBot.svg"> </a> <a href="https://github.com/Zyc0r3/RitaBot/tree/test-branch-1.3.0/"><img src="https://img.shields.io/github/package-json/v/ZyC0R3/RitaBot/test-branch-1.3.0?label=Test%20Version"></a> <a href="https://github.com/Zyc0r3/RitaBOt/stargazers/"> <img src="https://img.shields.io/github/stars/Zyc0r3/RitaBot" href="https://github.com/Zyc0r3/RitaBot/stargazers"> </a>
  <img src="https://img.shields.io/github/checks-status/Zyc0r3/RitaBot/ed616d5df0c63cfde954b4ea36fbab13c1ad86a6?label=build"> <a href="https://github.com/Zyc0r3/RitaBot/fork"> <img src="https://img.shields.io/badge/dynamic/json?color=success&label=forks&query=forks&url=https%3A%2F%2Fapi.github.com%2Frepos%2FZyc0r3%2FRitaBot"> </a>
 </p><br/><br/>
-
+<p align="center"> 
+<img alt="open collective badge" src="https://opencollective.com/ritabot-project/tiers/supporter/badge.svg?label=Supporter&color=brightgreen" />
+<img alt="open collective badge" src="https://opencollective.com/ritabot-project/tiers/sponsor/badge.svg?label=Sponsor&color=brightgreen" />
+<img alt="open collective badge" src="https://opencollective.com/ritabot-project/tiers/backer/badge.svg?label=Backer&color=brightgreen" />
+</p><br/><br/>
 
 
 <p align="center">An open-source, free Discord Translator Bot built using <strong>google-translate-api</strong> and <strong>Discord.js</strong>.</p>
@@ -175,8 +179,8 @@ Rename the existing **.env.example** file and name it **.env**. Edit the Values 
 
 ### <a name="supporters"></a> :clap: Supporters
 
-[![Stargazers repo roster for @Zyc0r3/RitaBot](https://reporoster.com/stars/Zyc0r3/RitaBot)](https://github.com/Zyc0r3/RitaBot/stargazers)
-[![Forkers repo roster for @Zyc0r3/RitaBot](https://reporoster.com/forks/Zyc0r3/RitaBot)](https://github.com/Zyc0r3/RitaBot/network/members)
+[![Stargazers repo roster for @Zyc0r3/RitaBot](https://reporoster.com/stars/RitaBot-Project/RitaBot)](https://github.com/RitaBot-Project/RitaBot/stargazers)
+[![Forkers repo roster for @Zyc0r3/RitaBot](https://reporoster.com/forks/RitaBot-Project/RitaBot)](https://github.com/RitaBot-Project/RitaBot/network/members)
 
 ------
 
